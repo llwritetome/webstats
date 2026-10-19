@@ -1,0 +1,15 @@
+# Tajné údaje – nikdy necommitovat
+secrets/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Výstupy a cache
+out/
+.cache/
